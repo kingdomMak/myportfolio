@@ -1,16 +1,20 @@
-# My Current Project
+# 👨🏽‍💻 Kingdom Makunamisha – Portfolio Website
 
-## Project Name
-[Your Project Name]
+Welcome to my personal developer portfolio, designed and built from scratch using **HTML**, **CSS**, and pure grind. This is where I showcase my work, story, and everything I’m proud of as a growing full-stack dev.
 
-## Description
-This project is a [brief description of the project, its purpose, and what it does].
+## 🌍 Live Project
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+[🔗 View Live](https://tshedza-portfolio.vercel.app/)
 
-## Links
-- [Live Demo](https://yourprojectlink.com)
-- [GitHub Repository](https://github.com/yourusername/yourproject)
+## 🛠 Built With
+
+- HTML5  
+- CSS3  
+- Custom responsive layout (no frameworks)  
+- Hosted on Vercel
+
+## 💡 Features
+
+- Clean, responsive layout
+- Custom styling
+- Project
